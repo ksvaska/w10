@@ -1,0 +1,17 @@
+.image{
+    width: 500px;
+    border-radius: 3px;
+    border: solid 1px black;
+}
+.container{
+    display: flex;
+    gap: 10px;
+}
+button{
+    background-color: rgb(192, 130, 209);
+    border-radius: 6px;
+    font-size: 16px;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
